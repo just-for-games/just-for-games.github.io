@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:stable
+    command: jekyll serve --watch --force_polling --verbose --livereload
+    #command: bundle add webrick
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll

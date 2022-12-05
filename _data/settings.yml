@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Mria
+title: Just Games
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Mria is a multipurpose blog theme for Jekyll
+description: Le seul média gaming gratuit et sans bullshit
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -10,18 +10,18 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Accueil'
       url: '/'
-    - title: 'Blog'
+    - title: 'News'
       url: '/blog/'
-    - title: 'Authors'
+    - title: 'Auteurs'
       url: '/authors/'
     - title: 'Videos'
       url: '/videos/'
     - title: 'Pages'
       submenu:
       - url: '/about/'
-        title: 'About'
+        title: 'À propos'
       - url: '/contact/'
         title: 'Contact'
       - url: '/elements/'
@@ -32,17 +32,17 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Thoughts, stories and ideas.
-  hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+  hero__title: Le gaming sans bullshit.
+  hero__description: Pas de titre putaclic, pas de cookie, pas de pub. Juste l'essentiel.
   hero__image: # You can add hero image. For example '/images/06.jpg'
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
-  author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__avatar: /images/01-1.jpg
+  author__name: Pierre Mary
+  author__bio: Je suis un ingénieur logiciel passioné de jeu vidéo.
+  author__avatar: /images/authors/avatar_pierre_mary.webp
 
 
 #-------------------------------
@@ -65,16 +65,16 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: travel # To display the tag section, specify your favorite tag.
+  tag: news # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
 # Author Section Settings
 author__section:
   enable: true
-  author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
+  author__section__title: Hello, mon nom est Pierre. Je suis un passioné de jeu vidéo.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  aurhor__section__button__text: More About Me
+  aurhor__section__button__text: A propos de moi
   aurhor__section__button__link: /about
   author__section__big__image: /images/100.jpg
   author__section__small__image: /images/101.jpg
@@ -84,8 +84,8 @@ author__section:
 # Newsletter Settings
 mailchimp__settings:
   enable: true
-  mailchimp__title: Get interesting news
-  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__title: Recevez les nouvelles qui vous intéressent
+  mailchimp__description: Abonnez vous à notre newsletter et vous receverez un condensé de l'actualité du milieu
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address
   mailchimp__button__text: Subscribe
@@ -94,7 +94,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: Tout ce qu'on veut c'est des news sur le monde du jeu vidéo, pas des pub pour des grille-pains !
 
 
 # Social Links
@@ -112,9 +112,9 @@ social:
 # Footer Navigation
 footer__menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Accueil'
       url: '/'
-    - title: 'About'
+    - title: 'À propos'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
