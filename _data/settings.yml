@@ -49,7 +49,7 @@ author:
 # Blog Section Settings
 blog__settings:
   enable: true
-  blog__title: Latest Posts
+  blog__title: Dernières news
   blog__description:
 
 
@@ -57,7 +57,7 @@ blog__settings:
 # Videos Section Settings
 videos__settings:
   enable: true
-  videos__title: Latest Videos
+  videos__title: Dernières vidéos
   videos__description:
 
 
