@@ -14,18 +14,16 @@ menu__settings:
       url: '/'
     - title: 'News'
       url: '/blog/'
-    - title: 'Auteurs'
-      url: '/authors/'
+    #- title: 'Auteurs'
+    #  url: '/authors/'
     - title: 'Videos'
       url: '/videos/'
-    - title: 'Pages'
+    - title: 'Plus'
       submenu:
       - url: '/about/'
         title: 'À propos'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
 
 
 #-------------------------------
@@ -41,7 +39,7 @@ hero:
 # Author Global Settings
 author:
   author__name: Pierre Mary
-  author__bio: Je suis un ingénieur logiciel passioné de jeu vidéo.
+  author__bio: Je suis un nain addict aux chiantos.
   author__avatar: /images/authors/avatar_pierre_mary.webp
 
 
@@ -99,11 +97,11 @@ footer__description: Tout ce qu'on veut c'est des news sur le monde du jeu vidé
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+#- {icon: "twitter", link: "https://twitter.com"}
+#- {icon: "facebook", link: "https://facebook.com"}
+#- {icon: "codepen", link: "https://codepen.io"}
+#- {icon: "pinterest", link: "https://pinterest.com"}
+#- {icon: "vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
