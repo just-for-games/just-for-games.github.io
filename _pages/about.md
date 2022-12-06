@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/102.jpg'
+#image: '/images/102.jpg'
 ---
 
 Ce site a été créé pour vous proposer du contenu de qualité sur l'actualité vidéoludique, allant à l'encontre de la tendance générale qui consiste à vous prendre pour des pigeons en essayant de vous vendre des trotinettes entre deux articles putaclic blaclés et sponsorisés.  
