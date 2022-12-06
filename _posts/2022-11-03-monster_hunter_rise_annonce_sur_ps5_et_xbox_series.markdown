@@ -7,6 +7,6 @@ author: pierre
 image:  '/images/posts/2022-11-03-monster_hunter_rise_annonce_sur_ps5_et_xbox_series/cover.jpeg'
 tags:   [Jeu Vidéo, News]
 tags_color: '#a149cb'
-featured: true
+featured: false
 ---
 Si vous ne l'avez pas déjà sur Switch ou PC, vous pourrez bientôt vous rattraper sur PS5 et Xbox Series. Quelque soit votre plateforme, vous disposerez de modes 4K à 60fps ou 1080p à 120 fps. Sur PS5, le jeu prend en charge l’audio 3D et la Dualsense.

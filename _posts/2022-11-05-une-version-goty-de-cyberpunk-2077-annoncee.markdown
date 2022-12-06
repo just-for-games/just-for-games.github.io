@@ -7,7 +7,7 @@ author: pierre
 image:  '/images/posts/2022-11-05-une-version-goty-de-cyberpunk-2077-annoncee/cover.jpeg'
 tags:   [Jeu Vidéo, News]
 tags_color: '#4c49cb'
-featured: true
+featured: false
 ---
 A l'occasion d'une interview, le PDG de CD Projekt RED, Adam Kicinski a exprimé son souhait de proposer une version GOTY comprenant Cyberpunk 2077 et son DLC Phantom Liberty pour 2023.
 

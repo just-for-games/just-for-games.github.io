@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Just Games
+title: Pause Gamer
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Le seul média gaming gratuit et sans bullshit
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -134,7 +134,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: just-games-1 # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

@@ -8,6 +8,6 @@ image:  '/images/posts/2022-11-05-dragon-age-dernier-trailer-de-année-et-pas-de
 video_embed: https://www.youtube.com/embed/zLESu_aChMU
 tags:   [Jeu Video, News]
 tags_color: '#37bee4'
-featured: true
+featured: false
 ---
 Le studio a indiqué que c'était sa façon de "clôturer l'année" sur ce jeu, ce qui ne manque pas de nous décevoir. Nous n'en verrons donc pas d'avantage aux Game Awards du 8 décembre 2022.
