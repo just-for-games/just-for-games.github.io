@@ -8,7 +8,7 @@ image:  '/images/posts/2022-11-05-epic_lance_une_application_gratuite_pour_scann
 video_embed: https://www.youtube.com/embed/i2BdDqtttuA
 tags:   [Tech, News]
 tags_color: '#618770'
-featured: true
+featured: false
 ---
 Dévoilée en avril 2022, l'application est maintenant disponible sur [IOS](https://apps.apple.com/us/app/realityscan/id1584832280) uniquement. La version Android est attendue pour 2023.
 
