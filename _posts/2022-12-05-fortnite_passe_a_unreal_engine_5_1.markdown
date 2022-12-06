@@ -7,8 +7,7 @@ author: pierre
 image:  '/images/posts/2022-12-05-fortnite_passe_a_unreal_engine_5_1/fortnite-unreal-engine-5-1-screenshot-1.webp'
 tags:   [Jeu Vidéo, News]
 tags_color: '#4c49cb'
-featured: true
-
+featured: false
 ---
 Nanite, Lumen, cartes d'ombres virtuelles et super-résolution temporelle, rien que ça. Concrètement, les graphismes sont d'une meilleure qualité.  
 Sur PC il vous faudra néanmoins disposer à minima d'une GeForce RTX 2080 ou d'une Radeon RX 5700 et de Windows 10. A partir de ce chapitre, Windows 7 et 8 ne seront plus officiellement compatibles avec Fortnite.  
