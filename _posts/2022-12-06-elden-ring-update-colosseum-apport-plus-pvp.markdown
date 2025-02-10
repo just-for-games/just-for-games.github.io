@@ -8,6 +8,6 @@ image:  '/images/posts/2022-12-06-elden-ring-update-colosseum-apport-plus-pvp/co
 video_embed: https://www.youtube.com/embed/I3gvvJ8JHs4
 tags:   [Jeu Vidéo, News]
 tags_color: '#cb8049'
-featured: true
+featured: false
 ---
 Bien que le trailer ne décrive pas le détail des différents mode, nous n'aurons pas à attendre longtemps pour les découvrir étant donné que la sortie est pour demain.
