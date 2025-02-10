@@ -3,7 +3,7 @@ layout: post
 title:  Fortnite passe à l'Unreal Engine 5.1
 description: Le Chapitre 4 du Battle Royale sert de vitrine pour la dernière version de l'Unreal Engine sur PS5, Xbox Series, PC et GeForce NOW.
 date:   2022-11-05 15:01:35 +0300
-author: pierre
+author: hellfryer
 image:  '/images/posts/2022-12-05-fortnite_passe_a_unreal_engine_5_1/fortnite-unreal-engine-5-1-screenshot-1.webp'
 tags:   [Jeu Vidéo, News]
 tags_color: '#4c49cb'

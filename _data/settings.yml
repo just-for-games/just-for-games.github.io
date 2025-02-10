@@ -38,9 +38,9 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Pierre Mary
+  author__name: hellfryer
   author__bio: Je suis un nain addict aux chiantos.
-  author__avatar: /images/authors/avatar_pierre_mary.webp
+  author__avatar: /images/authors/avatar_hellfryery.webp
 
 
 #-------------------------------
@@ -70,7 +70,7 @@ tag__settings:
 # Author Section Settings
 author__section:
   enable: true
-  author__section__title: Hello, mon nom est Pierre. Je suis un passioné de jeu vidéo.
+  author__section__title: Hello, mon nom est hellfryer. Je suis un passioné de jeu vidéo.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: A propos de moi
   aurhor__section__button__link: /about

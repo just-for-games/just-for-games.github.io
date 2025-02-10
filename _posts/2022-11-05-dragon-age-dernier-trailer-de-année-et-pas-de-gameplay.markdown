@@ -3,7 +3,7 @@ layout: post
 title:  Dragon Age - Dernier trailer de l'année et pas de gameplay
 description: BioWare a tué tout espoir d'avoir un aperçu du jeu en 2022 avec un trailer In-Game Cinematic qui n'a rien de in-game puisqu'il s'agit d'une animation.
 date:   2022-11-05 15:01:35 +0300
-author: pierre
+author: hellfryer
 image:  '/images/posts/2022-11-05-dragon-age-dernier-trailer-de-année-et-pas-de-gameplay/cover.webp'
 video_embed: https://www.youtube.com/embed/zLESu_aChMU
 tags:   [Jeu Video, News]

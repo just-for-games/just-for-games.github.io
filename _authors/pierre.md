@@ -1,10 +1,10 @@
 ---
-username: pierre
-name: Pierre Mary
-image: '/images/authors/avatar_pierre_mary.webp'
+username: hellfryer
+name: hellfryer
+image: '/images/authors/avatar_hellfryer.webp'
 cover:
 location: France
-website: https://pierremary.com
+#website: https://website.com
 #twitter: https://twitter.com
 #facebook: https://www.facebook.com
 ---

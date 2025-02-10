@@ -3,7 +3,7 @@ layout: post
 title:  Epic lance une app pour scanner n'importe quoi en 3D
 description: A destination des créateurs, RealityScan vous permet d'utiliser votre téléphone pour transformer ce qui vous entoure en modèle 3D.
 date:   2022-11-04 18:05:55 +0300
-author: pierre
+author: hellfryer
 image:  '/images/posts/2022-11-05-epic_lance_une_application_gratuite_pour_scanner_en_3d/cover.webp'
 video_embed: https://www.youtube.com/embed/i2BdDqtttuA
 tags:   [Tech, News]

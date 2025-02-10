@@ -3,7 +3,7 @@ layout: post
 title:  "Test de Kingdom Come: Deliverance II"
 description: L'aventure médiévale à la dure
 date:   2025-01-10 16:40:35 +0300
-author: pierre
+author: hellfryer
 image:  '/images/posts/2025-01-01-kingdom-come-deliverance-ii-test/cover.webp'
 tags:   [Jeu Vidéo, Test]
 tags_color: '#cb8049'
