@@ -31,7 +31,7 @@ menu__settings:
 hero:
   enable: true
   hero__title: Le gaming sans bullshit.
-  hero__description: Pas de titre putaclic, pas de cookie tiers, pas de pub. Juste l'essentiel.
+  hero__description: Pas de titre putaclic, pas de pub, juste l'essentiel.
   hero__image: # You can add hero image. For example '/images/06.jpg'
 
 
