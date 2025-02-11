@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RTX 5090 : Pour qui, pourquoi, et à quel prix ?"
-description: L'aventure médiévale à la dure
+description: "Qui a réellement besoin de cette carte graphique hors norme ? Spoiler : surement pas vous."
 date:   2025-01-10 16:40:35 +0300
 author: hellfryer
 image:  '/images/posts/2025-01-11-rtx-5090-pour-qui-quoi-a-quel-prix/cover.webp'
