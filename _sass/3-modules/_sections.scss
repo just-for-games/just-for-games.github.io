@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Sections + Page */
 .section {
   margin-bottom: 68px;
@@ -32,7 +34,7 @@
   font-size: 32px;
   line-height: 1;
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 24px;
   }
 }
@@ -56,11 +58,11 @@
     transition: all .1s;
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     padding-left: 0;
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 16px;
   }
 }
@@ -96,13 +98,13 @@
     margin-bottom: 16px;
   }
 
-  @media only screen and (max-width: $wide) {
+  @media only screen and (max-width: grid.$wide) {
     .article__title {
       font-size: 26px;
     }
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     .article__inner {
       display: block;
     }
@@ -157,7 +159,7 @@
     color: var(--gray);
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     padding: 80px 0;
   }
 }
@@ -176,7 +178,7 @@
 .videos-page {
   margin-bottom: 68px;
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 48px;
   }
 }
@@ -186,7 +188,7 @@
   .article__title {
     font-size: 21px;
 
-    @media only screen and (max-width: $tablet) {
+    @media only screen and (max-width: grid.$tablet) {
       font-size: 26px;
     }
   }
@@ -196,7 +198,7 @@
 .section-author {
   margin-bottom: 170px;
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     margin-bottom: 100px;
   }
 }
@@ -205,7 +207,7 @@
   display: flex;
   align-items: center;
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     flex-direction: column;
   }
 }
@@ -245,7 +247,7 @@
     box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.07), 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198), 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
   }
 
-  @media only screen and (max-width: $wide) {
+  @media only screen and (max-width: grid.$wide) {
     &.two-author-images {
       margin-right: 90px;
     }
@@ -256,7 +258,7 @@
     }
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     height: auto;
     max-width: 100%;
     width: 100%;
@@ -282,14 +284,14 @@
     }
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     .author__small__image {
       width: 320px;
       height: 220px;
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 24px;
 
     &.two-author-images {
@@ -319,13 +321,13 @@
     color: var(--text-alt-color);
   }
 
-  @media only screen and (max-width: $wide) {
+  @media only screen and (max-width: grid.$wide) {
     .section-author__title {
       font-size: 42px;
     }
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     width: 100%;
     max-width: 100%;
 
@@ -334,13 +336,13 @@
     }
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     .section-author__title {
       font-size: 26px;
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     .section-author__description {
       margin-bottom: 24px;
     }

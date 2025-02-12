@@ -1,3 +1,15 @@
+# Using GitHub Codespaces for editing the site
+Navigate to the repo.  
+Launch Codespaces (Code button -> Cloud -> New codespace on current branch). 
+Once it's launched, run the following in the terminal. 
+```
+gem install bundler jekyll. 
+bundle update
+bundle exec jekyll serve
+```
+
+That's it - you will get a new tab to view the rendered work as you edit. So easy!
+
 # Mria is a multipurpose Jekyll blog theme.
 
 Mria is a high-quality multipurpose Jekyll theme with a unique style and clean code. You can use Mria for multipurpose like blog, magazine, portfolio, etc. This theme is fully responsive, and it looks good on all types of screens and devices. If you’re looking for a theme that is clean, high performance, and simple, the Mria theme is exactly what you’re looking for then.

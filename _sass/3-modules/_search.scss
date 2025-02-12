@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Search */
 .search {
   position: fixed;
@@ -50,15 +53,15 @@
   transition: all .25s ease;
   will-change: transform;
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     margin: 120px auto 0;
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     padding: 40px;
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     padding: 32px;
   }
 }
@@ -96,7 +99,7 @@
       vertical-align: middle;
     }
 
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       right: 24px;
     }
   }
@@ -128,7 +131,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 32px;
 
     .search__text {
@@ -157,7 +160,7 @@
       }
     }
 
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       flex-direction: column;
       padding-bottom: 16px;
       margin-bottom: 16px;
@@ -182,7 +185,7 @@
       user-select: none;
     }
 
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       margin-right: 0;
       min-width: 100%;
       height: 200px;
@@ -201,7 +204,7 @@
       }
     }
 
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       padding: 16px 0 0 0;
     }
   }
@@ -215,13 +218,13 @@
   }
 
   .search-results__title {
-    font-family: $heading-font-family;
+    font-family: variables.$heading-font-family;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.3;
     text-decoration: underline;
     text-decoration-color: transparent;
-    transition: $global-transition;
+    transition: variables.$global-transition;
   }
 
   .no-results {

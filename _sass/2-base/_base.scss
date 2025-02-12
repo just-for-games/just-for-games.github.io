@@ -1,11 +1,14 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 *, *::after, *::before {
   box-sizing: border-box;
 }
 
 body {
-  font-family: $base-font-family;
-  font-size: $base-font-size;
-  line-height: $base-line-height;
+  font-family: variables.$base-font-family;
+  font-size: variables.$base-font-size;
+  line-height: variables.$base-line-height;
   overflow-x: hidden;
   color: var(--text-color);
   background-color: var(--background-color);
@@ -37,42 +40,42 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $heading-font-family;
-  font-weight: $heading-font-weight;
-  line-height: $heading-line-height;
-  letter-spacing: $heading-letter-spacing;
+  font-family: variables.$heading-font-family;
+  font-weight: variables.$heading-font-weight;
+  line-height: variables.$heading-line-height;
+  letter-spacing: variables.$heading-letter-spacing;
   color: var(--heading-font-color);
 }
 
 h1 {
-  font-size: $font-size-h1;
+  font-size: variables.$font-size-h1;
 }
 
 h2 {
-  font-size: $font-size-h2;
+  font-size: variables.$font-size-h2;
 }
 
 h3 {
-  font-size: $font-size-h3;
+  font-size: variables.$font-size-h3;
 }
 
 h4 {
-  font-size: $font-size-h4;
+  font-size: variables.$font-size-h4;
 }
 
 h5 {
-  font-size: $font-size-h5;
+  font-size: variables.$font-size-h5;
 }
 
 h6 {
-  font-size: $font-size-h6;
+  font-size: variables.$font-size-h6;
 }
 
 blockquote {
   position: relative;
   margin: 32px 0;
   padding: 24px 0 24px 56px;
-  font-family: $heading-font-family;
+  font-family: variables.$heading-font-family;
   font-size: 30px;
   line-height: 1.6;
   font-style: normal;
@@ -83,7 +86,7 @@ blockquote {
     position: absolute;
     top: 0.7em;
     left: 0;
-    font-family: $base-font-family;
+    font-family: variables.$base-font-family;
     font-size: 3.5em;
     line-height: 0;
     color: var(--heading-font-color);
@@ -103,7 +106,7 @@ blockquote {
 
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     padding: 12px 0 12px 40px;
     font-size: 20px;
 
@@ -145,7 +148,7 @@ img,
     a {
       font-weight: 600;
       border-bottom: 1px solid transparent;
-      transition: $global-transition;
+      transition: variables.$global-transition;
 
       &:hover {
         color: var(--link-color);
@@ -153,7 +156,7 @@ img,
       }
     }
   
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       margin-top: 12px;
     }
   }
@@ -162,7 +165,7 @@ img,
 a {
   text-decoration: none;
   color: var(--link-color);
-  transition: $global-transition;
+  transition: variables.$global-transition;
 
   &:hover {
     color: var(--link-color-hover);

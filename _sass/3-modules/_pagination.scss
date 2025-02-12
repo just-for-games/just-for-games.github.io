@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Pagination */
 .pagination {
   display: flex;
@@ -6,7 +8,7 @@
   margin-top: 16px;
   margin-bottom: 100px;
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 80px;
   }
 }

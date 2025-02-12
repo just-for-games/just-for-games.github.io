@@ -1,8 +1,10 @@
+@use "../1-tools/grid";
+
 /* Contact */
 .form-box {
   margin-bottom: 100px;
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 80px;
   }
 }
@@ -15,7 +17,7 @@
   font-size: 21px;
   color: var(--text-alt-color);
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     font-size: inherit;
   }
 }

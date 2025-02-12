@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Subscribe */
 .subscribe {
   position: relative;
@@ -85,7 +87,7 @@
     }
   }
 
-  @media only screen and (max-width: $wide) {
+  @media only screen and (max-width: grid.$wide) {
     .subscribe__content{
       .subscribe__title {
         font-size: 42px;
@@ -97,7 +99,7 @@
     }
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     flex-direction: column;
     justify-content: start;
     align-items: flex-start;
@@ -114,7 +116,7 @@
     }
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     .subscribe__content {
       .subscribe__title {
         font-size: 26px;
@@ -126,7 +128,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     .subscribe__content {
       .subscribe__description {
         font-size: 16px;
