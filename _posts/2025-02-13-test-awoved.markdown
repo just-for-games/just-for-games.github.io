@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test d'Avowed : Un bon RPG qui respecte ses ainés"
-description: L'aventure médiévale à la dure
+description: En attendant Skyblivion
 date:   2025-01-10 16:40:35 +0300
 author: hellfryer
 image:  '/images/posts/2025-02-13-test-awoved/cover.webp'
