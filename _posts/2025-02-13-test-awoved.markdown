@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test d'Avowed : Un bon RPG qui respect ses ainés"
+title:  "Test d'Avowed : Un bon RPG qui respecte ses ainés"
 description: L'aventure médiévale à la dure
 date:   2025-01-10 16:40:35 +0300
 author: hellfryer
@@ -9,6 +9,7 @@ tags:   [Jeu Vidéo, Test]
 tags_color: '#8be4e7'
 featured: true
 ---
+
 ## Un RPG qui a de la bouteille (et pas toujours dans le bon sens)
 
 Obsidian Entertainment est un studio qui jongle entre coups de génie et archaïsmes persistants. Après The Outer Worlds, qui sentait déjà un peu le réchauffé, Avowed nous emmène dans l’univers d’Eora, issu de Pillars of Eternity. Un monde en proie au Malrêve, une menace surnaturelle qui rend tout le monde irritable (comme un lundi matin). Prometteur sur le papier, mais dans les faits, est-ce le RPG immersif qu'on attendait, ou juste un Skyrim du pauvre ?
