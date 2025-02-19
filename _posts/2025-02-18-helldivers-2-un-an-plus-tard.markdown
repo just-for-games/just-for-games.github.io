@@ -2,7 +2,7 @@
 layout: post
 title:  "Helldivers 2 : un an plus tard, mission réussie !"
 description: La mise à jour Omens of Tyranny apporte une nouvelle faction, des améliorations d’équilibrage et un gameplay renouvelé.
-date:   2025-02-19 16:40:35 +0300
+date:   2025-02-19 09:30:35 +0300
 author: hellfryer
 image:  '/images/posts/2025-02-19-helldiver/2025-02-18-helldivers-2-un-an-plus-tard.webp'
 tags:   [Jeu Vidéo, Test]
