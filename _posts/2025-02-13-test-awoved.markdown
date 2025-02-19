@@ -7,7 +7,7 @@ author: hellfryer
 image:  '/images/posts/2025-02-13-test-awoved/cover.webp'
 tags:   [Jeu Vidéo, Test]
 tags_color: '#8be4e7'
-featured: true
+featured: false
 ---
 
 ## Un RPG qui a de la bouteille (et pas toujours dans le bon sens)
