@@ -10,7 +10,7 @@ tags_color: '#3187e7'
 featured: true
 ---
 
-### **Mon expérience à la sortie**
+## **Mon expérience à la sortie**
 
 Sorti le 8 février 2024, *Helldivers 2* fête son premier anniversaire ! Avec son lancement fulgurant, ce jeu-service, couronné aux *Game Awards*, m’avait immédiatement attiré par son chaos jouissif, ses situations improbables et sa méta-narration innovante. J’y avais passé de très bons moments avec un groupe d’amis avant de lâcher l’affaire au bout de trois mois, lassé par une certaine répétitivité, un équilibrage maladroit et une série de patchs mal reçus. Mon traumatisme des Automatons n’a bien sûr rien à voir là-dedans.
 
