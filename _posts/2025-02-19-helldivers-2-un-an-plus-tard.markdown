@@ -7,7 +7,7 @@ author: hellfryer
 image:  '/images/posts/2025-02-19-helldivers-2-un-an-plus-tard/cover.webp'
 tags:   [Jeu Vidéo, Test]
 tags_color: '#3187e7'
-featured: true
+featured: false
 ---
 
 ## **Mon expérience à la sortie**

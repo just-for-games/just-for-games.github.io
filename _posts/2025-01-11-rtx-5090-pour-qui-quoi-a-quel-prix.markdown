@@ -7,7 +7,7 @@ author: hellfryer
 image:  '/images/posts/2025-01-11-rtx-5090-pour-qui-quoi-a-quel-prix/cover.webp'
 tags:   [Hardware, GPU]
 tags_color: '#76b900'
-featured: true
+featured: false
 ---
 
 ## Un GPU qui va relancer le nucléaire

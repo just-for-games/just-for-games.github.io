@@ -7,7 +7,7 @@ author: hellfryer
 image:  '/images/posts/2025-01-01-kingdom-come-deliverance-ii-test/cover.webp'
 tags:   [Jeu Vidéo, Test]
 tags_color: '#cb8049'
-featured: true
+featured: false
 ---
 # Une immersion toujours plus poussée… et toujours plus exigeante
 Après sept ans d’attente, Kingdom Come: Deliverance II reprend le flambeau avec la même recette : une reconstitution historique ultra-réaliste, un système de jeu impitoyable et une invitation à vivre la vie d’un roturier du XVe siècle. Henry, notre fils de forgeron préféré, repart de zéro après un malencontreux coup du sort. À vous de le faire évoluer en trouvant du travail, en affinant vos talents et en tentant de ne pas finir pendu pour vol de pommes.
