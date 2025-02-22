@@ -12,7 +12,7 @@ featured: false
 
 Vous débutez ou souhaitez améliorer votre expérience de jeu ? Ce petit guide est fait pour vous !  
 
-Avant tout, la règle la plus importante est de s'amuser. Ces "règles" sont justement là pour rendre vos parties encore plus plaisantes, surtout si vous êtes nouveau. Je vous épargne les bases comme "ne vous mettez pas devant l'arme de votre voisin" ou "n'appelez pas une bombe de 500K sur la tête de vos alliés", car j'ai encore un peu foi en l'humanité.
+Je vous épargne les bases comme "ne vous mettez pas devant l'arme de votre voisin" ou "n'appelez pas une bombe de 500K sur la tête de vos alliés", car j'ai encore un peu foi en l'humanité.
 
 ## À faire :
 
