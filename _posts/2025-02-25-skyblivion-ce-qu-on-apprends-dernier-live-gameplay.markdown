@@ -5,7 +5,7 @@ description:  Après 13 ans de développement, les nouvelles sont bonnes pour le
 date:   2025-02-25 19:30:35 +0300
 author: hellfryer
 image:  '/images/posts/2025-02-25-skyblivion-ce-qu-on-apprends-dernier-live-gameplay/cover.webp'
-tags:   [Jeu Vidéo, Test]
+tags:   [Jeu Vidéo, News]
 tags_color: '#d1ac6b'
 featured: false
 ---
