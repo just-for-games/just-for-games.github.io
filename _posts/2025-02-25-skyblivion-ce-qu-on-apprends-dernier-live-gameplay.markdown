@@ -30,7 +30,7 @@ Les environs des villes ont été enrichis avec des éléments plus cohérents c
 
 Un soin particulier a été apporté aux objets uniques pour les rendre vraiment uniques, comme l’armure de Kvatch obtenue après la fermeture de la première porte d’Oblivion, qui apparaît désormais légèrement brûlée et déchirée. Ce souci du détail témoigne de l’amour des contributeurs pour Oblivion.
 
-De nouveaux effets sonores ont été ajoutés en complément de ceux d’origine et de Skyrim, notamment des bruits de pas adaptés au type de sol. Ces derniers ont été réalisés par David Jegutidse (à vérifier), le créateur du mod [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466), téléchargé plus d’un million de fois.
+De nouveaux effets sonores ont été ajoutés en complément de ceux d’origine et de Skyrim, notamment des bruits de pas adaptés au type de sol. Ces derniers ont été réalisés par David Jegutidse, le créateur du mod [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466), téléchargé plus d’un million de fois.
 
 Encore une fois, l’attention aux détails est remarquable : on trouve désormais dans les donjons des squelettes représentant les différentes races du jeu.
 
