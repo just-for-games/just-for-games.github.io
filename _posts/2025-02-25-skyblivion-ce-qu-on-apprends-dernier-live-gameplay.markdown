@@ -10,7 +10,7 @@ tags_color: '#d1ac6b'
 featured: false
 ---
 
-Dire que je suis ravi d'avoir de bonnes nouvelles de Skyblivion serait un euphémisme ! Et ce pour deux raisons : J'ai adoré Oblivion à sa sortie et je trouve toujours aussi impressionnant la capacité de la scène modding à porter des projets aussi démentiels sur une aussi longues période.  
+Dire que je suis ravi d'avoir de bonnes nouvelles de Skyblivion serait un euphémisme ! Et ce pour deux raisons : J'ai adoré Oblivion à sa sortie et je trouve toujours aussi impressionnant la capacité de la scène modding à porter des projets aussi démentiels sur une aussi longue période.  
 
 Pour ceux qui ne suivent pas, Skyblivion est un mod gratuit qui recrée complètement le jeu Oblivion en utilisant le moteur de Skyrim. Débuté en 2012, après 13 ans de travail passionné, le projet est entré dans sa dernière ligne droite, et les développeurs sont confiants pour une sortie courant 2025.
 
