@@ -5,7 +5,7 @@ description:  La règle la plus importante est de s'amuser. Ces "règles" sont j
 date:   2025-02-22 19:30:35 +0300
 author: hellfryer
 image:  '/images/posts/2025-02-22-helldivers-2-guide-de-survie-et-de-bonne-conduite/cover.webp'
-tags:   [Jeu Vidéo, Test]
+tags:   [Jeu Vidéo, Guide]
 tags_color: '#3187e7'
 featured: false
 ---
