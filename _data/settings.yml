@@ -98,8 +98,8 @@ footer__description: Tout ce qu'on veut c'est des news sur le monde du jeu vidé
 # Social Links
 social:
 - {icon: "twitter", link: "https://x.com/PauseGamerRedac"}
-- {icon: "mastodon", link: "https://mastodon.social/@pausegamer"}
-- {icon: "bluesky", link: "https://bsky.app/profile/pausegamer.bsky.social"}
+#- {icon: "mastodon", link: "https://mastodon.social/@pausegamer"}
+#- {icon: "bluesky", link: "https://bsky.app/profile/pausegamer.bsky.social"}
 #- {icon: "facebook", link: "https://facebook.com"}
 #- {icon: "codepen", link: "https://codepen.io"}
 #- {icon: "pinterest", link: "https://pinterest.com"}

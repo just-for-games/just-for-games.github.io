@@ -91,6 +91,12 @@
     &:hover {
       color: var(--brand-color);
     }
+
+    &__custom {
+      &:hover {
+        filter: invert(20%) sepia(60%) saturate(5796%) hue-rotate(219deg) brightness(101%) contrast(107%);
+      }
+    }
   }
 }
 
