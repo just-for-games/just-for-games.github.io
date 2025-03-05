@@ -5,7 +5,7 @@ description:  The Elder Scrolls Online fête ses 10 ans. Que vaut ce MMORPG en 2
 date:   2025-02-25 19:30:35 +0300
 author: hellfryer
 image:  '/images/posts/2025-03-05-test-the-elder-scrolls-online-en-2025/cover.webp'
-tags:   [Jeu Vidéo, News]
+tags:   [Jeu Vidéo, Test]
 tags_color: '#f1c33c'
 featured: false
 ---
