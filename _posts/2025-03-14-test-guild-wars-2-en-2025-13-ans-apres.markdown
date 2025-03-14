@@ -78,6 +78,9 @@ Guild Wars 2 adopte un modèle free-to-play pour son jeu de base, offrant un con
 
 Pour obtenir le jeu de base, toutes les extensions disponibles et les saisons qui vont avec, comptez 100 € quand ArenaNet propose des promotions, ce qui est régulièrement le cas.
 
+![Combien coûte le jeu]({{site.baseurl}}/images/posts/2025-03-14-test-guild-wars-2-en-2025-13-ans-apres/guild-wars-2-prix.jpg)
+*Il y a des promotions pratiquement tout le temps*
+
 Mais ne nous mentons pas, ArenaNet doit bien payer ses serveurs, et la boutique en gemmes est là pour ça. Skins ultra-stylés, emplacements de personnages supplémentaires, etc… La tentation est grande mais je salue l’absence de pay-to-win.
 
 Les extensions, elles, sont payantes mais débloquent énormément de contenu et sont régulièrement soldées. Et pour ceux qui n’aiment pas sortir la carte bleue, il est possible d’acheter des gemmes avec la monnaie du jeu. Un système équilibré, mais qui peut vite donner des sueurs froides aux complétionnistes.
@@ -99,7 +102,7 @@ Treize ans plus tard, la flamme est encore vive.
 **Points clefs :**
 - 📌 Guild Wars 2 est-il encore actif en 2025 ? Oui, avec environ 180 000 connexions quotidiennes, le jeu reste l’un des MMORPG les plus joués.
 
-- 📌 Le jeu est-il toujours gratuit ? Le jeu de base est entièrement gratuit, mais les extensions sont payantes.
+- 📌 Le jeu est-il gratuit ? Le jeu de base est entièrement gratuit, mais les extensions sont payantes.
 
 - 📌 Quelle est la meilleure classe pour débuter ? Le gardien et le rôdeur sont de bons choix pour les nouveaux joueurs grâce à leur polyvalence.
 
