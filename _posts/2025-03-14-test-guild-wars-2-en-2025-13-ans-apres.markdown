@@ -95,7 +95,7 @@ Avec 20 millions de joueurs inscrits et environs 180 000 connexions quotidiennes
 
 Guild Wars 2 a réussi la prouesse de tout faire bien : PvP, PvE, exploration, puzzles, raids, crafting, montures et progression engageante. Son gameplay rapide et nerveux tranche avec les MMO plus classiques et son PvP reste un des meilleurs depuis Warhammer Online. 
 
-Si vous cherchez un jeu plus simple, Elder Scroll Online pourrait être un meilleur choix. Mais pour les amateurs de combats dynamiques, de build crafting et d’exploration, Guild Wars 2 reste une référence incontournable face à des concurrents comme WoW ou FFXIV. D’autant que le jeu de base est gratuit et offre déjà des centaines d’heures de contenu.
+Si vous cherchez un jeu plus simple, [Elder Scroll Online](https://pausegamer.com/blog/test-the-elder-scrolls-online-en-2025) pourrait être un meilleur choix. Mais pour les amateurs de combats dynamiques, de build crafting et d’exploration, Guild Wars 2 reste une référence incontournable face à des concurrents comme WoW ou FFXIV. D’autant que le jeu de base est gratuit et offre déjà des centaines d’heures de contenu.
 
 Treize ans plus tard, la flamme est encore vive.
 
