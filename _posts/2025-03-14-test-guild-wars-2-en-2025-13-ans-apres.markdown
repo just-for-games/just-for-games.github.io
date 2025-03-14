@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test de Guild Wars 2 : Que vaut le MMO en 2025 ?"
-description:  Guild Wars 2, l'un des MMORPG les plus emblématiques, fête ses 13 ans. Que vaut-il en 2024 ? Je vous donne mon un avis détaillé sur son évolution, son gameplay et son modèle économique.
+description:  Guild Wars 2, l'un des MMORPG les plus emblématiques, fête ses 13 ans. Que vaut-il en 2025 ? Je vous donne mon un avis détaillé sur son évolution, son gameplay et son modèle économique.
 date:   2025-03-14 13:30:35 +0300
 author: hellfryer
 image:  '/images/posts/2025-03-14-test-guild-wars-2-en-2025-13-ans-apres/cover.webp'
@@ -97,7 +97,7 @@ Si vous cherchez un jeu plus simple, Elder Scroll Online pourrait être un meill
 Treize ans plus tard, la flamme est encore vive.
 
 **Points clefs :**
-- 📌 Guild Wars 2 est-il encore actif en 2024 ? Oui, avec environ 180 000 connexions quotidiennes, le jeu reste l’un des MMORPG les plus joués.
+- 📌 Guild Wars 2 est-il encore actif en 2025 ? Oui, avec environ 180 000 connexions quotidiennes, le jeu reste l’un des MMORPG les plus joués.
 
 - 📌 Le jeu est-il toujours gratuit ? Le jeu de base est entièrement gratuit, mais les extensions sont payantes.
 
