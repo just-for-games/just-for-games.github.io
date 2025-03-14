@@ -96,11 +96,11 @@ Si vous cherchez un jeu plus simple, Elder Scroll Online pourrait être un meill
 
 Treize ans plus tard, la flamme est encore vive.
 
-Points clefs :
-- 📌 Guild Wars 2 est-il encore actif en 2024 ?Oui, avec environ 180 000 connexions quotidiennes, le jeu reste l’un des MMORPG les plus joués.
+**Points clefs :**
+- 📌 Guild Wars 2 est-il encore actif en 2024 ? Oui, avec environ 180 000 connexions quotidiennes, le jeu reste l’un des MMORPG les plus joués.
 
-- 📌 Le jeu est-il toujours gratuit ?Le jeu de base est entièrement gratuit, mais les extensions sont payantes.
+- 📌 Le jeu est-il toujours gratuit ? Le jeu de base est entièrement gratuit, mais les extensions sont payantes.
 
-- 📌 Quelle est la meilleure classe pour débuter ?Le gardien et le rôdeur sont de bons choix pour les nouveaux joueurs grâce à leur polyvalence.
+- 📌 Quelle est la meilleure classe pour débuter ? Le gardien et le rôdeur sont de bons choix pour les nouveaux joueurs grâce à leur polyvalence.
 
 Avez-vous rejoué à Guild Wars 2 récemment ? Partagez votre avis en commentaire !
