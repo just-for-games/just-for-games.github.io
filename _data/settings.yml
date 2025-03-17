@@ -123,7 +123,7 @@ footer__menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: meoaolbk # Add your form_id
   description: Un problème, une demande ? N'hésitez pas à nous contacter. # Add a description of your form
 
 # NOTE
