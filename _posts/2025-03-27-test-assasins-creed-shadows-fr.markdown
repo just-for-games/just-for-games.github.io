@@ -29,6 +29,9 @@ Côté scénario, c’est du Assassin’s Creed classique : anecdotique. Une dou
 
 Là où Shadows brille, c’est dans sa représentation du Kansai, au Japon du XVIe siècle. Ubisoft a dépassé mes espérances. Les panoramas sont magnifiques, la région est plus vivante que dans Ghost of Tsushima, les châteaux sont un plaisir à explorer et les saisons apportent une vraie variété. Pour moi qui aime l’exploration, je suis ravi.
 
+![De belles promenades en perspectives]({{site.baseurl}}/images/posts/2025-03-27-test-assasins-creed-shadows/assasins-sreed-shadows-bamboo.webp)
+*De belles promenades en perspectives*
+
 ## Gameplay
 
 Fraîchement débarqué de mon bateau des Caraïbes, j’étais impatient. Douze ans d’innovation, sept jeux… et je peux vous le dire : rien n’a changé. À ce stade, on pourrait parler de gameplay rétro.
@@ -44,6 +47,9 @@ L'aspect RPG de cet open-world est accessible. Je l'ai trouvé simple et efficac
 J’ai eu un choc en voyant que je ne pouvais plus assassiner instantanément les ennemis haut niveau. Apparemment, c’est un vieux reproche. La bonne nouvelle ? Une option existe : Difficulty Tuning > Guaranteed Assassination.
 
 Mieux encore, on peut personnaliser l’expérience de jeu. La difficulté des combats et de l’infiltration est modulable. En mode expert, les ennemis lèvent la tête et peuvent repérer un joueur perché. Ces options ont rendu mon expérience de jeu bien plus intéressante.
+
+![C'est beau]({{site.baseurl}}/images/posts/2025-03-27-test-assasins-creed-shadows/assasins-sreed-shadows-forest.webp)
+*C'est beau*
 
 ## La recette du foie gras
 
