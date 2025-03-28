@@ -41,6 +41,16 @@ J’ai eu un choc en voyant que je ne pouvais plus assassiner instantanément le
 
 Mieux encore, on peut personnaliser l’expérience de jeu. La difficulté des combats et de l’infiltration est modulable. En mode expert, les ennemis lèvent la tête et peuvent repérer un joueur perché. Ces options ont rendu mon expérience de jeu bien plus intéressante.
 
+## La recette du foie gras
+
+Si je déteste une chose dans les jeux vidéo, c’est le remplissage. La carte de Assassin's Creed Origins m’avait donné la nausée. Je n’ai ni le temps ni l’envie pour les quêtes FedEx ou la chasse aux artefacts. Malheureusement, Shadows en déborde. Alors j’ai voulu faire comme avec Black Flag, ignorer totalement ces aspects du jeu, quitte à devoir livrer combats plus difficiles car je n’avais farmé pour améliorer mon bateau. Or ici, impossible sous peine de se faire one-shot par le premier paysan armé d’une fourche. Ubisoft vise un public large, notamment ceux qui ne jouent qu'à quatre jeux par an et en veulent pour leur argent. Tant pis pour les autres.
+
+## Technique
+
+Sur PC comme sur console, pas de problème majeur à signaler. Nul doute que le report aura été salutaire.
+
+Et sur Steam Deck ? Dès sa sortie, le jeu était en statut "Compatible". En attendant une mise à jour, un seul réglage graphique existe : l’upscaler. Désactivé on est à 30 FPS. Avec, atour de 35-40 FPS. J'ai connu de rares drops à 25 FPS, une occurrence à 15 FPS. En termes d'autonomie comptez sur 1h-1h30. Graphiquement, ça reste convaincant, mais adieu le ray tracing.
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/posts/2025-03-27-test-assasins-creed-shadows/01_steam_deck.webp" loading="lazy">
@@ -62,16 +72,6 @@ Mieux encore, on peut personnaliser l’expérience de jeu. La difficulté des c
   </div>
   <em>Comparaison Steam Deck / PC 4K Ultra</em>
 </div>
-
-## La recette du foie gras
-
-Si je déteste une chose dans les jeux vidéo, c’est le remplissage. La carte de Assassin's Creed Origins m’avait donné la nausée. Je n’ai ni le temps ni l’envie pour les quêtes FedEx ou la chasse aux artefacts. Malheureusement, Shadows en déborde. Alors j’ai voulu faire comme avec Black Flag, ignorer totalement ces aspects du jeu, quitte à devoir livrer combats plus difficiles car je n’avais farmé pour améliorer mon bateau. Or ici, impossible sous peine de se faire one-shot par le premier paysan armé d’une fourche. Ubisoft vise un public large, notamment ceux qui ne jouent qu'à quatre jeux par an et en veulent pour leur argent. Tant pis pour les autres.
-
-## Technique
-
-Sur PC comme sur console, pas de problème majeur à signaler. Nul doute que le report aura été salutaire.
-
-Et sur Steam Deck ? Dès sa sortie, le jeu était en statut "Compatible". En attendant une mise à jour, un seul réglage graphique existe : l’upscaler. Désactivé on est à 30 FPS. Avec, atour de 35-40 FPS. J'ai connu de rares drops à 25 FPS, une occurrence à 15 FPS. En termes d'autonomie comptez sur 1h-1h30. Graphiquement, ça reste convaincant, mais adieu le ray tracing.
 
 ## Conclusion 7/10
 
