@@ -16,6 +16,10 @@ Quatorze jeux en dix-huit ans pour la série principale, soit presque un par an 
 
 Puis, en 2025, j’ai joué à Assassin’s Creed Shadows et j’ai pris une claque. Cette pause de douze ans m’a permis d’éviter l’impression de jouer pour la septième fois au même jeu et de découvrir les évolutions de la série sous leur forme la plus aboutie, dans un cadre que j’attendais de voir depuis 2007. Pour le joueur comme pour le shinobi caché dans l’ombre, la patience est une vertu.
 
+![Assassin’s Creed Unity a les meilleurs glitchs]({{site.baseurl}}/images/posts/2025-03-27-test-assasins-creed-shadows/assassin-s-creed-unity-glitch.jpg)
+*Assassin’s Creed Unity a les meilleurs glitchs*
+
+
 ## Ghost of Sashimi
 _(C’est mon article, je fais ce que je veux avec les titres)_
 
