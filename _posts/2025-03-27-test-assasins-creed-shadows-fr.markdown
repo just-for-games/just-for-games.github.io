@@ -53,7 +53,7 @@ Mieux encore, on peut personnaliser l’expérience de jeu. La difficulté des c
 
 ## La recette du foie gras
 
-Si je déteste une chose dans les jeux vidéo, c’est le remplissage. La carte de Assassin's Creed Origins m’avait donné la nausée. Je n’ai ni le temps ni l’envie pour les quêtes FedEx ou la chasse aux artefacts. Malheureusement, Shadows en déborde. Alors j’ai voulu faire comme avec Black Flag, ignorer totalement ces aspects du jeu, quitte à devoir livrer combats plus difficiles car je n’avais farmé pour améliorer mon bateau. Or ici, impossible sous peine de se faire one-shot par le premier paysan armé d’une fourche. Ubisoft vise un public large, notamment ceux qui ne jouent qu'à quatre jeux par an et en veulent pour leur argent. Tant pis pour les autres.
+Si je déteste une chose dans les jeux vidéo, c’est le remplissage. La carte de Assassin's Creed Origins m’avait donné la nausée. Je n’ai ni le temps ni l’envie pour les quêtes FedEx ou la chasse aux artefacts. Malheureusement, Shadows en déborde. Alors j’ai voulu faire comme avec Black Flag, ignorer totalement ces aspects du jeu, quitte à devoir livrer des combats plus difficiles car je n’avais farmé pour améliorer mon bateau. Or ici, impossible sous peine de se faire one-shot par le premier paysan armé d’une fourche. Ubisoft vise un public large, notamment ceux qui ne jouent qu'à quatre jeux par an et en veulent pour leur argent. Tant pis pour les autres.
 
 ## Technique
 
