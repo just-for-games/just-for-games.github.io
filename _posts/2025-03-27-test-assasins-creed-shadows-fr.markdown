@@ -87,7 +87,7 @@ Et sur Steam Deck ? Dès sa sortie, le jeu était en statut "Compatible". En at
 
 L’innovation majeure de Shadows ? Ses options de personnalisation. Un luxe qui nécessitait jadis des mods et m'a permis de modeler l'expérience pour correspondre à mes attentes.
 
-En tant qu'opus de la licence Assassin’s Creed, c’est juste une itération de plus. qui ne réussit qu’à améliorer marginalement la formule. Si vous êtes un habitué, éteignez votre cerveau et jouez en automatique. Rien de change vraiment et il n’a finalement que son univers magnifique à vous offrir. Si vous aimez l’exploration, cela peut suffire.
+En tant qu'opus de la licence Assassin’s Creed, c’est juste une itération de plus. qui ne réussit qu’à améliorer marginalement la formule. Si vous êtes un habitué, éteignez votre cerveau et jouez en automatique. Rien de change vraiment et il n’a finalement que son univers magnifique à vous offrir. Si vous aimez l’exploration, cela peut suffire.  
 Mais si, comme moi, vous avez esquivé les épisodes “fast-food” ou mieux, découvrez la licence, vous trouverez un excellent jeu. En jeu vidéo comme à table, mieux vaut éviter de se gaver avant le dessert. Et vu la situation d’Ubisoft, Shadows pourrait bien être le dernier "bon" jeu avant longtemps.
 
 Et vous, Assassin’s Creed Shadows vous donne-t-il envie de replonger dans la licence ou allez vous passer votre tour ? Partagez votre avis en commentaire !
